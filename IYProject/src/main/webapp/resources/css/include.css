@@ -59,9 +59,8 @@ a {
  }
  .top_header_menu_logo{
  	position:absolute;
- 	left:180px;
+ 	left:166px;
  	top :-20px;
- 	
  }
  .top-login-right{
    float:right;
@@ -78,17 +77,19 @@ a {
    height: 70px;
  }
  .top-menu-center{
-  left:40%;
+  left:50%;
   /* transform:translate(50%,0); */
   text-align:center;
-  height:70px;
+  height:50px;
  }
  .top-menu-center a{
-   margin:35px;
-   font-size:35px;
-   font-family:Sans-serif, "돋움";
-   
+   margin:10px;
+  font-size:30px;
  }
+  
+ 
+ 
+ 
  .top-menu-right{
   position:absolute;
   right:40px;

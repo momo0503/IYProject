@@ -10,13 +10,11 @@
 </head>
 <body>
 	<div class="top-gnb-wrap">
-	
   <div class="top-login">
    <div class="top-login-right">
    <c:if test="${login eq null}">
     <a href="IY_login">로그인</a>
     </c:if>
-    
     <c:if test="${login ne null}">
     <a href="IY_logout">로그아웃</a>
     <c:if test="${login.membertype eq '3'.charAt(0)}">
@@ -50,7 +48,6 @@
       <a href="#">MY티켓</a>
     </div> -->
   </header>
-  
 </div>
 </body>
 </html>
