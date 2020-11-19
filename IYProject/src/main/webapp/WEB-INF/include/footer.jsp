@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="./resources/css/include.css">
 </head>
 <body>
+
 	<footer>
 		<div class="bot-cont">
 
